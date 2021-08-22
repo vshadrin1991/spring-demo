@@ -1,9 +1,9 @@
-package TestFolder;
+package UserEndpoint;
 
 import java.util.Random;
 import java.util.stream.Collectors;
 
-import static TestFolder.Users.getUsers;
+import static UserEndpoint.Users.getUsers;
 
 public class User {
     Integer id;
